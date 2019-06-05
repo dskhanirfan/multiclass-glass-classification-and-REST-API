@@ -3,7 +3,6 @@
 The glass classification study is important for criminological investigation. At the scene of the crime, the glass left can be used as evidence. USA Forensic science service made the data publically available at UCI. 
 
 
-# Solution:
 # Used Flask to serve a machine learning model as a RESTful webservice
 
 write the following commands in the terminal to start the API:
