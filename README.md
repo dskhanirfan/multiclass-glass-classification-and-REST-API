@@ -10,7 +10,7 @@ write the following commands in the terminal to start the API:
   export FLASK_APP=operationlize.py
   flask run
 
-Alternate:
+On another terminal:
   python operationlize.py
   run the last block of code in notebook to see the API work
   
