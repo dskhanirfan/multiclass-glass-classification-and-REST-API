@@ -14,7 +14,7 @@ write the following commands in the terminal to start the API:
 
 in another terminal: python run.py
 OR
-run the last block of code in jupyter notebook to see the API work
+open jupyter notebook and run the last block of code to see the API work
   
   url = "http://localhost:5000/predictions"
   data = json.dumps({'id':'139'}) 
